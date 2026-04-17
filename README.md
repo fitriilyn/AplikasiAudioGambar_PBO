@@ -1,6 +1,6 @@
 # Kebun Binatang Digital - Kelompok 2
 
-Aplikasi desktop edukasi sederhana berbasis JavaFX yang dirancang untuk memperkenalkan berbagai macam suara hewan kepada pengguna secara interaktif. Proyek ini dikembangkan menggunakan **Maven.**
+Aplikasi desktop edukasi sederhana berbasis JavaFX untuk memperkenalkan berbagai macam suara hewan kepada pengguna secara interaktif. Proyek ini dikembangkan menggunakan **Maven.**
 
 ## Fitur Utama
 * **Antarmuka Interaktif**: Menggunakan tata letak `FlowPane` yang responsif dan `VBox` untuk merapikan setiap elemen hewan.
